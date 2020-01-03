@@ -21,7 +21,7 @@ public class cadena {
         int numero = 0;
         
 
-        cadena = JOptionPane.showInputDialog("INGRESE SU CORREO ELECTRONICO");
+        cadena = JOptionPane.showInputDialog("INGRESE SU CORREO ");
 
         for (int i = 0; i < cadena.length(); i++) {
 
