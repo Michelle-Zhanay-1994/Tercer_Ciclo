@@ -19,7 +19,7 @@ public class cadena {
         String correo = "";
         char arroba = '@';
         int numero = 0;
-        String mensaje;
+        
 
         cadena = JOptionPane.showInputDialog("INGRESE SU CORREO ELECTRONICO");
 
